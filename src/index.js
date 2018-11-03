@@ -3,5 +3,3 @@ import 'bootstrap';
 import './index.scss';
 
 $('#dogs').show();
-
-
